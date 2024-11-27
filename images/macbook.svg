@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_1" data-name="레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 307.2">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <style>
+      .st0 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+
+      .st0, .st1 {
+        fill: none;
+      }
+
+      .st2 {
+        fill: url(#_무제_그라디언트);
+      }
+
+      .st3 {
+        fill: url(#_무제_그라디언트_5);
+      }
+
+      .st4 {
+        fill: url(#_무제_그라디언트_2);
+      }
+
+      .st5 {
+        fill: url(#_무제_그라디언트_4);
+      }
+
+      .st6 {
+        fill: #232323;
+      }
+
+      .st7 {
+        clip-path: url(#clippath);
+      }
+
+      .st8 {
+        fill: url(#_무제_그라디언트_3);
+      }
+    </style>
+    <clipPath id="clippath">
+      <path class="st1" d="M0,0v307.2h520V0H0ZM459,271.3H61V23.3h398v248Z"/>
+    </clipPath>
+    <linearGradient id="_무제_그라디언트" data-name="무제 그라디언트" x1="260" y1="302.7" x2="260" y2="295.6" gradientTransform="translate(0 600) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".4" stop-color="#808185"/>
+      <stop offset=".5" stop-color="#78797d"/>
+      <stop offset=".5" stop-color="#7a7b7f"/>
+      <stop offset="1" stop-color="#0d0c11"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_2" data-name="무제 그라디언트 2" x1="260" y1="596.7" x2="260" y2="306.5" gradientTransform="translate(0 600) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#363636"/>
+      <stop offset="0" stop-color="#3a3a3a"/>
+      <stop offset="0" stop-color="#404040"/>
+      <stop offset=".1" stop-color="#7d7d7d"/>
+      <stop offset=".2" stop-color="#404040"/>
+      <stop offset=".2" stop-color="#383838"/>
+      <stop offset=".4" stop-color="#404040"/>
+      <stop offset=".4" stop-color="#797979"/>
+      <stop offset=".5" stop-color="#404040"/>
+      <stop offset=".6" stop-color="#404040"/>
+      <stop offset=".6" stop-color="#626262"/>
+      <stop offset=".6" stop-color="#404040"/>
+      <stop offset=".7" stop-color="#404040"/>
+      <stop offset=".8" stop-color="#3d3d3d"/>
+      <stop offset=".9" stop-color="#404040"/>
+      <stop offset=".9" stop-color="#7e7e7e"/>
+      <stop offset="1" stop-color="#474747"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_3" data-name="무제 그라디언트 3" x1="0" y1="307.7" x2="520" y2="307.7" gradientTransform="translate(0 600) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#49484d"/>
+      <stop offset="0" stop-color="#d3d4d9"/>
+      <stop offset="0" stop-color="#d0d1d6"/>
+      <stop offset="0" stop-color="#8c8d92"/>
+      <stop offset="0" stop-color="#85868b"/>
+      <stop offset=".5" stop-color="#cbccd2"/>
+      <stop offset=".9" stop-color="#85868b"/>
+      <stop offset=".9" stop-color="#8b8c91"/>
+      <stop offset="1" stop-color="#d0d1d6"/>
+      <stop offset="1" stop-color="#d3d4d9"/>
+      <stop offset="1" stop-color="#454449"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_4" data-name="무제 그라디언트 4" x1="218" y1="309.2" x2="302" y2="309.2" gradientTransform="translate(0 600) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#161617"/>
+      <stop offset="0" stop-color="#84848a"/>
+      <stop offset=".3" stop-color="#8f8f96"/>
+      <stop offset=".5" stop-color="#adadb5"/>
+      <stop offset=".7" stop-color="#8a8b91"/>
+      <stop offset=".9" stop-color="#7b7c81"/>
+      <stop offset="1" stop-color="#0d0c11"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_5" data-name="무제 그라디언트 5" x1="43.6" y1="588.6" x2="134.7" y2="497.6" gradientTransform="translate(0 600) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9e9e9e"/>
+      <stop offset="1" stop-color="#1d1d1b"/>
+    </linearGradient>
+  </defs>
+  <g class="st7">
+    <g id="objects">
+      <g>
+        <path class="st2" d="M520,297.3s-16,7-40,7H40c-24,0-40-7-40-7l260-2,260,2Z"/>
+        <path class="st4" d="M471,287.3H49V13.3c0-5.5,4.5-10,10-10h402c5.5,0,10,4.5,10,10v274Z"/>
+        <path d="M50.5,287.3V13.3c0-4.7,3.8-8.5,8.5-8.5h402c4.7,0,8.5,3.8,8.5,8.5v274H50.5Z"/>
+        <rect class="st8" y="287.3" width="520" height="10"/>
+        <path class="st5" d="M295,294.3h-70c-3.9,0-7-3.1-7-7h84c0,3.9-3.1,7-7,7Z"/>
+        <line class="st0" x1="469.5" y1="278.3" x2="50.5" y2="278.3"/>
+        <path class="st3" d="M234,6.3L52,215.3V13.3c0-3.9,3.1-7,7-7h175Z"/>
+        <circle class="st6" cx="260" cy="14.3" r="3"/>
+      </g>
+    </g>
+  </g>
+</svg>
